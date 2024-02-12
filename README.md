@@ -1,2 +1,4 @@
-# mi_primer_repo
-reto n2
+# reto  2
+
+ejecucion del codigo 
+
