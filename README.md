@@ -22,3 +22,9 @@ Codigo .py
 
 
 [![Screenshot-2024-02-17-211857.png](https://i.postimg.cc/8kfZm9gz/Screenshot-2024-02-17-211857.png)](https://postimg.cc/K4F7Z9Y6)
+
+# 
+- python 
+# 
+
+[![Screenshot-2024-02-17-213508.png](https://i.postimg.cc/HszHTVZK/Screenshot-2024-02-17-213508.png)](https://postimg.cc/xcXBRTSy)
