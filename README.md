@@ -4,7 +4,7 @@ Codigo .py
 
 [![Screenshot-2024-02-17-211623.png](https://i.postimg.cc/W3LvbrMG/Screenshot-2024-02-17-211623.png)](https://postimg.cc/yJP5LDpx)
 
-###Ejecucion del codigo:
+### Ejecucion del codigo:
 # 
 - Terminal de windows
 # 
