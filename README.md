@@ -1,4 +1,5 @@
-# Reto  2
+# Reto  2 
+ .[![image.png](https://i.postimg.cc/7ZRsm0sY/image.png)](https://postimg.cc/VJjWNrP3)
 
 Codigo .py
 
